@@ -1,0 +1,3 @@
+osage-orange,maclura pomifera,osage-orange,hedge apple,bois d'arc,horse apple,monkey brain,bodark,monkey ball,bow-wood,yellow-wood,mock orange,osage orange
+white mulberry,morus alba,common mulberry,morus australis
+red mulberry,morus rubra

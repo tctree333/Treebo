@@ -1,0 +1,3 @@
+white ash,fraxinus americana,american ash
+oregon ash,oregon ash,fraxinus latifolia
+velvet ash,fraxinus velutina,leather-leaf,arizona ash,fraxinus velutina tourmeyi

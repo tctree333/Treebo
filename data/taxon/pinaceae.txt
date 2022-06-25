@@ -1,0 +1,34 @@
+balsam fir,abies balsamea,balm-of-gilead,balsam,abies balsamea fallax,abies balsamea brachylepis
+white fir,abies concolor,white silver fir,abies lowiana viridula,abies concolor violacea,abies concolor wattezii,abies concolor bajacalifornica
+grand fir,abies grandis,giant fir,lowland white fir,yellow fir,abies excelsior,abies grandis idahoensis
+subalpine fir,abies lasiocarpa,abies balsamea lasiocarpa
+tamarack,larix laricina,american larch,weeping hemlock,hackmatack,black larch
+western larch,larix occidentalis,western tamarack,montana larch
+engelmann spruce,picea engelmannii,engelmann spruce,engelmann blue spruce,rocky mountain white spruce
+white spruce,picea glauca,cat spruce,alberta spruce,canadian spruce,skunk spruce,picea laxa
+black spruce,picea mariana,double spruce,swamp spruce,gum spruce,picea mariana beissneri,picea mariana nana,picea mariana semiprostrata,picea mariana mariana
+blue spruce,picea pungens,colorado blue spruce,colorado spruce
+red spruce,picea rubens,yellow spruce,he balsam
+sitka spruce,picea sitchensis,sitka spruce,western spruce,tideland spruce,alaska spruce
+whitebark pine,pinus albicaulis,whitebark pine,scrub pine,northern nut pine
+rocky mountain bristlecone pine,pinus aristata,rocky mountain bristlecone pine,colorado bristlecone pine,foxtail pine,hickory pine,pricklecone pine
+knobcone pine,pinus attenuata
+jack pine,pinus banksiana,jack pine,scrub pine,gray pine,black pine
+lodgepole pine,pinus contorta,contorta pine,tamarack pine,scrub pine
+shortleaf pine,pinus echinata,short-leaf pine,yellow pine,shortstraw pine,arkansas pine,rosemary pine,long-tag pine
+colorado pinyon,pinus edulis,colorado pinyon,two-needle pinyon,twin-needle pinyon,piñon pine,pinyon pine,two-needle pinyon pine,twoneedle pinyon,colorado piñon,twoneedle piñon,nut pine,rocky mountain pinyon,pinus cembroides edulis,pinus edulis edulis,pinus edulis fallax
+limber pine,pinus flexilis,rocky mountain white pine,squirrel pine
+sugar pine,pinus lambertiana,big pine,pinus lambertiana brevifolia,pinus lambertiana minor,pinus lambertiana purpurea,pinus lambertiana martirensis
+singleleaf pinyon,pinus monophylla,singleleaf piñon,single leaf pinyon pine
+western white pine,pinus monticola,mountain white pine,silver pine
+longleaf pine,pinus palustris,long-leaved pine,southern yellow pine,longstraw pine,hill pine,pitch pine,hard pine,heart pine,pinus longifolia
+ponderosa pine,pinus ponderosa,ponderosa pine,western yellow pine,blackjack pine,willamette valley ponderosa pine,yellow pine,pondosa pine,bull pine,rock pine,western red pine,pinus ponderosa willamettensis
+red pine,pinus resinosa,norway pine
+pitch pine,pinus rigida,northern pitch pine,torch pine,sap pine
+eastern white pine,pinus strobus,white pine,strobus pine,weymouth pine,pumpkin pine,pinus tenuifolia,pinus strobus strobus
+loblolly pine,pinus taeda,sea pine,frankincense pine,old field pine,oldfield pine,shortleaf pine,north carolina pine
+virginia pine,pinus virginiana,virginia pine,jersey pine,scrub pine
+common douglas-fir,pseudotsuga menziesii,common douglas-fir,douglas-fir,douglas fir,oregon pine,north american douglas-fir,psuedotsuga menziesii,pseudotsuga douglasii
+eastern hemlock,tsuga canadensis,canada hemlock,canadian hemlock,eastern hemlock-spruce,hemlock spruce,picea canadensis
+western hemlock,tsuga heterophylla,western hemlock-spruce,pacific hemlock
+mountain hemlock,tsuga mertensiana,alpine hemlock,hesperopeuce mertensiana,tsuga jeffreyi,tsuga × jeffreyi

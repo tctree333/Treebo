@@ -1,0 +1,10 @@
+coast redwood,sequoia sempervirens,redwood,california redwood
+giant sequoia,sequoiadendron giganteum,giant redwood,wellingtonia,sierra redwood,bigtree,sequoiadendron giganteum pendulum
+baldcypress,taxodium distichum,bald cypress,bald-cypress,swamp cypress,deciduous cypress,sabino tree,taxodium distichum distichum,taxodium distichum mexicanum
+lawson's cypress,chamaecyparis lawsoniana,lawson's cypress,port orford-cedar,lawson cypress,oregon cedar,ginger-pine
+monterey cypress,cupressus macrocarpa,monterey cypress,macrocarpa,callitropsis macrocarpa,hesperocyparis macrocarpa,cupressus macrocarpa goldcrest
+utah juniper,juniperus osteosperma,utah juniper,little utah juniper
+rocky mountain juniper,juniperus scopulorum,rocky mountain juniper,rocky mountain redcedar,colorado juniper
+eastern redcedar,juniperus virginiana,eastern juniper,eastern red cedar,southern redcedar,red juniper,red cedar,pencil cedar
+northern whitecedar,thuja occidentalis,northern white-cedar,arborvitae,eastern whitecedar,eastern arborvitae,northern white cedar,eastern white cedar,eastern white-cedar,american arborvitae,tree of life
+western redcedar,thuja plicata,western red cedar,canoe cedar,pacific redcedar,giant arborvitae,shingle cedar

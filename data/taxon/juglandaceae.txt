@@ -1,0 +1,6 @@
+bitternut hickory,carya cordiformis,swamp hickory,pignut
+pignut hickory,carya glabra
+pecan,carya illinoinensis,softshell hickory,carya illinoensis,carya oliviformis,carya illinoiensis
+shagbark hickory,carya ovata
+butternut,juglans cinerea,butternut,butternut tree,white walnut,oilnut
+eastern black walnut,juglans nigra,black walnut
