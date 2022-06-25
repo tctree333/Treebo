@@ -32,7 +32,7 @@ config: Dict[str, Any] = {
     "log_dir": "logs/",  # directory for text logs/backups
     "bot_files_dir": "bot_files",  # folder for bot generated files (downloaded images, logs)
     "short_id_type": "t",  # short (usually 1 letter) form of id_type, used as alias for the pic command
-    "invite": "This bot can only be used in the support server for now. Check back later!",  # bot server invite link
+    "invite": "https://discord.com/oauth2/authorize?client_id=990375195015544883&permissions=51200&scope=bot",  # bot server invite link
     "authors": "person_v1.32",  # creator names
     "extra_about_fields": [
         {
@@ -44,7 +44,7 @@ config: Dict[str, Any] = {
             "value": "Images used by this bot are the copyright of their respective owners. These images are sourced from [iNaturalist](https://www.inaturalist.org/).",
         },
     ],  # list of dicts containing keys "name" and "value" to be added to the botinfo command
-    "category_name": "tree family",  # space thing, bird order, muscle group - what you are splitting groups by
+    "category_name": "taxon",  # space thing, bird order, muscle group - what you are splitting groups by
     "category_aliases": {  # aliases for categories
         "cupressaceae": ["cypress"],
         "ginkgoaceae": ["ginkgo"],
