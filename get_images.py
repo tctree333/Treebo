@@ -1,15 +1,18 @@
 import logging
 import os
-import shutil
 import time
 from typing import Tuple
 
 import aiohttp
-from sentry_sdk import capture_exception
+from sentry_sdk import capture_exception, capture_message
 
 import inat
 
-CONTENT_TYPE_LOOKUP = {"image/png": "png", "image/jpeg": "jpg"}
+CONTENT_TYPE_LOOKUP = {
+    "image/png": "png",
+    "image/jpeg": "jpg",
+    "application/octet-stream": "jpg",
+}
 
 MAX_IMAGES_SAVED = 20
 CYCLE_DOWNLOAD_COUNT = 2
@@ -54,6 +57,11 @@ async def download_images(
         try:
             async with session.get(url) as resp:
                 if resp.status != 200:
+                    continue
+
+                content_type = resp.headers["content-type"].split(";")[0]
+                if content_type not in CONTENT_TYPE_LOOKUP:
+                    capture_message("unknown content type: " + content_type)
                     continue
 
                 # have a time and index based filename for sorting purposes
