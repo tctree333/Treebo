@@ -1,1 +1,1 @@
-sciolyid==1.5.0
+sciolyid==1.5.1
