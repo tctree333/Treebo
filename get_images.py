@@ -34,9 +34,8 @@ async def get_images(data, category, item):
     index = int(data.database.zscore("image.index:global", item) or 0)
     async with aiohttp.ClientSession() as session:
         new_index, urls = await inat.get_urls(session, item, index, count)
-        index = new_index
         await download_images(session, urls, directory)
-    data.database.zadd("image.index:global", {item: index})
+    data.database.zadd("image.index:global", {item: new_index})
 
     # remove extra images
     directory_files = os.listdir(directory)
