@@ -11,6 +11,8 @@ import inat
 CONTENT_TYPE_LOOKUP = {
     "image/png": "png",
     "image/jpeg": "jpg",
+    "image/pjpeg": "jpg",
+    "image/gif": "gif",
     "application/octet-stream": "jpg",
 }
 

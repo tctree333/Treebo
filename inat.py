@@ -7,7 +7,7 @@ from sciolyid.util import cache
 
 COUNT = 5
 OBSERVATIONS_URL = "https://api.inaturalist.org/v1/observations?photos=true&photo_licensed=true&rank=species&taxon_name={specimen}&quality_grade=research&per_page={count}&order_by=id&order=asc&id_above={last_id}"
-IMAGE_URL = "https://inaturalist-open-data.s3.amazonaws.com/photos/{}/medium.jpg"
+IMAGE_URL = "https://inaturalist-open-data.s3.amazonaws.com/photos/{id}/medium.{ext}"
 
 logger = logging.getLogger("forestree")
 
@@ -44,5 +44,7 @@ async def get_urls(
 
     for observation in observations:
         for photo in observation["photos"]:
-            urls.append(IMAGE_URL.format(photo["id"]))
+            urls.append(
+                IMAGE_URL.format(id=photo["id"], ext=photo["url"].split(".")[-1])
+            )
     return (observations[-1]["id"], tuple(urls))
