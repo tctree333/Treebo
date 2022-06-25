@@ -54,6 +54,9 @@ async def download_images(
     for i, url in enumerate(urls):
         try:
             async with session.get(url) as resp:
+                if resp.status != 200:
+                    continue
+
                 # have a time and index based filename for sorting purposes
                 # uses midnight April 1st, 2021 UTC+00 as epoch
                 path = f"{directory}{round((time.time()-1617235200) * 100000000)+i}."
