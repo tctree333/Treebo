@@ -1,0 +1,7 @@
+.DS_Store
+__pycache__
+.vscode
+.python-version
+bot_files
+setup_local.sh
+dump.rdb
