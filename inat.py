@@ -1,8 +1,7 @@
 import logging
-from typing import List, Tuple, Optional
+from typing import Tuple
 
 import aiohttp
-from sciolyid.util import cache
 
 
 COUNT = 5
@@ -42,6 +41,7 @@ async def get_urls(
     if not observations:
         return (0, tuple())
 
+    logger.info(f"observation ids: {','.join([str(o['id']) for o in observations])}")
     for observation in observations:
         for photo in observation["photos"]:
             urls.append(
