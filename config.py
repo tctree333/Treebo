@@ -1,4 +1,3 @@
-import os
 from typing import Dict, Any
 
 from get_images import get_images
