@@ -43,6 +43,7 @@ async def get_urls(
 
     logger.info(f"observation ids: {','.join([str(o['id']) for o in observations])}")
     for observation in observations:
+        logger.info(f"observation at: {observation['observed_on']}")
         for photo in observation["photos"]:
             urls.append(
                 IMAGE_URL.format(id=photo["id"], ext=photo["url"].split(".")[-1])
