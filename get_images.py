@@ -20,7 +20,7 @@ MAX_IMAGES_SAVED = 20
 CYCLE_DOWNLOAD_COUNT = 2
 FIRST_DOWNLOAD_COUNT = 4
 
-logger = logging.getLogger("forestree")
+logger = logging.getLogger("treebo")
 
 
 async def get_images(data, category, item):
