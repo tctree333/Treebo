@@ -10,7 +10,7 @@ honey locust,gleditsia triacanthos
 kentucky coffeetree,gymnocladus dioicus
 honey mesquite,prosopis glandulosa
 black locust,robinia pseudoacacia
-american holly,american holly
+american holly,ilex opaca
 yaupon holly,ilex vomitoria
 bitternut hickory,carya cordiformis
 pignut hickory,carya glabra
@@ -27,8 +27,8 @@ northern catalpa,catalpa speciosa
 desert willow,chilopsis linearis
 flowering dogwood,cornus florida
 pacific dogwood,cornus nuttallii
-pacific yew,pacific yew
-pacific madrone,pacific madrone
+pacific yew,taxus brevifolia
+pacific madrone,arbutus menziesii
 saskatoon,amelanchier alnifolia
 curlleaf mountain mahogany,cercocarpus ledifolius
 black hawthorn,crataegus douglasii
@@ -40,7 +40,7 @@ fire cherry,prunus pensylvanica
 black cherry,prunus serotina
 chokecherry,prunus virginiana
 american mountain ash,sorbus americana
-narrowleaf cottonwood,narrowleaf cottonwood
+narrowleaf cottonwood,populus angustifolia
 black cottonwood,populus trichocarpa
 eastern cottonwood,populus deltoides
 fremont cottonwood,populus fremontii
@@ -56,7 +56,7 @@ common hackberry,celtis occidentalis
 common pawpaw,asimina triloba
 ginkgo,ginkgo biloba
 cabbage palmetto,sabal palmetto
-california fan palm,california fan palm
+california fan palm,washingtonia filifera
 american persimmon,diospyros virginiana
 american black elderberry,sambucus canadensis
 box elder,acer negundo
@@ -101,8 +101,8 @@ eastern hemlock,tsuga canadensis
 western hemlock,tsuga heterophylla
 mountain hemlock,tsuga mertensiana
 american chestnut,castanea dentata
-american beech,american beech
-tanoak,tanoak
+american beech,fagus grandifolia
+tanoak,notholithocarpus densiflorus
 coast live oak,quercus agrifolia
 white oak,quercus alba
 swamp white oak,quercus bicolor
@@ -138,11 +138,11 @@ paper birch,betula papyrifera
 gray birch,betula populifolia
 american hornbeam,carpinus caroliniana
 american hophornbeam,ostrya virginiana
-american elm,american elm
+american elm,ulmus americana
 slippery elm,ulmus rubra
 tree-of-heaven,ailanthus altissima
 white ash,fraxinus americana
-oregon ash,oregon ash
+oregon ash,fraxinus latifolia
 velvet ash,fraxinus velutina
 american witch-hazel,hamamelis virginiana
 osage-orange,maclura pomifera
