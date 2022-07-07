@@ -2,13 +2,20 @@ import logging
 from typing import Tuple
 
 import aiohttp
+from sentry_sdk import capture_message
 
 
 COUNT = 5
-OBSERVATIONS_URL = "https://api.inaturalist.org/v1/observations?photos=true&photo_licensed=true&rank=species&taxon_id=47126&taxon_name={specimen}&quality_grade=research&per_page={count}&order_by=id&order=asc&id_above={last_id}"
+OBSERVATIONS_URL = "https://api.inaturalist.org/v1/observations?photos=true&photo_licensed=true&rank=species&taxon_name={specimen}&quality_grade=research&per_page={count}&order_by=id&order=asc&id_above={last_id}"
 IMAGE_URL = "https://inaturalist-open-data.s3.amazonaws.com/photos/{id}/medium.{ext}"
 
 logger = logging.getLogger("treebo")
+
+sciname_lookup = {}
+with open("data/scinames.txt", "r") as f:
+    for line in f.readlines():
+        common, sci = line.split(",")
+        sciname_lookup[common.strip()] = sci.strip()
 
 
 async def get_urls(
@@ -26,15 +33,20 @@ async def get_urls(
     This function will try to return `images_to_download` number of
     images. The new ID is returned as the first element of the tuple.
     """
+    sciname = sciname_lookup.get(item, item)
+    if sciname == item:
+        logger.info(f"no sciname found for {item}, falling back")
+        capture_message(f"no sciname found for {item}")
+
     urls = []
     async with session.get(
-        OBSERVATIONS_URL.format(specimen=item, count=count, last_id=index)
+        OBSERVATIONS_URL.format(specimen=sciname, count=count, last_id=index)
     ) as resp:
         observations = (await resp.json())["results"]
 
     if not observations:
         async with session.get(
-            OBSERVATIONS_URL.format(specimen=item, count=count, last_id="")
+            OBSERVATIONS_URL.format(specimen=sciname, count=count, last_id="")
         ) as resp:
             observations = (await resp.json())["results"]
 
