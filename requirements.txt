@@ -1,1 +1,2 @@
-sciolyid==1.6.1
+sciolyid==1.7.0
+pycryptodome==3.15.0

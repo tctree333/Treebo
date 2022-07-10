@@ -23,7 +23,7 @@ async def get_urls(
     item: str,
     index: int,
     count: int = COUNT,
-) -> Tuple[int, Tuple[str, ...]]:
+) -> Tuple[int, Tuple[str, ...], Tuple[str, ...]]:
     """Return URLS of images of the specimen to download.
 
     This method uses iNaturalist's API to fetch image urls. It will
@@ -39,6 +39,7 @@ async def get_urls(
         capture_message(f"no sciname found for {item}")
 
     urls = []
+    ids = []
     async with session.get(
         OBSERVATIONS_URL.format(specimen=sciname, count=count, last_id=index)
     ) as resp:
@@ -51,7 +52,7 @@ async def get_urls(
             observations = (await resp.json())["results"]
 
     if not observations:
-        return (0, tuple())
+        return (0, tuple(), tuple())
 
     logger.info(f"observation ids: {','.join([str(o['id']) for o in observations])}")
     for observation in observations:
@@ -60,4 +61,5 @@ async def get_urls(
             urls.append(
                 IMAGE_URL.format(id=photo["id"], ext=photo["url"].split(".")[-1])
             )
-    return (observations[-1]["id"], tuple(urls))
+            ids.append(observation["id"])
+    return (observations[-1]["id"], tuple(urls), tuple(ids))

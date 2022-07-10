@@ -1,6 +1,7 @@
 from typing import Dict, Any
 
 from get_images import get_images
+from treebo_functions import before_media_send
 
 config: Dict[str, Any] = {
     "bot_description": "Treebo - A SciOly Discord Bot for Forestry ID",  # short bot description
@@ -83,7 +84,8 @@ config: Dict[str, Any] = {
         "euphorbiaceae": ["spurge"],
     },
     # "disable_extensions": [],  # bot extensions to disable (media, check, skip, hint, score, sessions, race, other)
-    # "custom_extensions": [],  # custom bot extensions to enable
+    "custom_extensions": ["treebo_ext"],  # custom bot extensions to enable
+    "hooks": {"before_media_send": before_media_send},
     "sentry": True,  # enable sentry.io error tracking
     "local_redis": False,  # use a local redis server instead of a remote url
     "bot_token_env": "BOT_TOKEN",  # name of environment variable containing the discord bot token

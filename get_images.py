@@ -38,8 +38,8 @@ async def get_images(data, category, item):
 
     index = int(data.database.zscore("image.index:global", item) or 0)
     async with aiohttp.ClientSession() as session:
-        new_index, urls = await inat.get_urls(session, item, index, count)
-        await download_images(session, urls, directory)
+        new_index, urls, ids = await inat.get_urls(session, item, index, count)
+        await download_images(session, urls, ids, directory)
     data.database.zadd("image.index:global", {item: new_index})
 
     # remove extra images
@@ -51,11 +51,14 @@ async def get_images(data, category, item):
 
 
 async def download_images(
-    session: aiohttp.ClientSession, urls: Tuple[str, ...], directory: str
+    session: aiohttp.ClientSession,
+    urls: Tuple[str, ...],
+    ids: Tuple[str, ...],
+    directory: str,
 ):
     """Manages image downloads."""
     logger.info("downloading images")
-    for i, url in enumerate(urls):
+    for i, (url, obs_id) in enumerate(zip(urls, ids)):
         try:
             async with session.get(url) as resp:
                 if resp.status != 200:
@@ -68,7 +71,8 @@ async def download_images(
 
                 # have a time and index based filename for sorting purposes
                 # uses midnight April 1st, 2021 UTC+00 as epoch
-                path = f"{directory}{round((time.time()-1617235200) * 100000000)+i}."
+                # we also record the observation id in the filename for use later
+                path = f"{directory}{round((time.time()-1617235200) * 100000000)+i}_{obs_id}."
                 with open(
                     path
                     + CONTENT_TYPE_LOOKUP[resp.headers["content-type"].split(";")[0]],
