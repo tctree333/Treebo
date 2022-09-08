@@ -13,6 +13,7 @@ american sycamore
 american witch-hazel
 baldcypress
 balsam fir
+balsam poplar
 basswood
 bebb's willow
 bigleaf magnolia
@@ -20,7 +21,6 @@ bigtooth aspen
 bitter cherry
 bitternut hickory
 black cherry
-black cottonwood
 black cottonwood
 black hawthorn
 black locust

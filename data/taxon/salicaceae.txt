@@ -1,5 +1,5 @@
 narrowleaf cottonwood,narrowleaf cottonwood,populus angustifolia,narrow-leaved cottonwood
-black cottonwood,populus trichocarpa,western balsam poplar,populus balsamifera trichocarpa
+balsam poplar,eastern balsam poplar,populus balsamifera
 eastern cottonwood,populus deltoides,eastern cottonwood,necklace poplar,match poplar
 fremont cottonwood,populus fremontii,fremont cottonwood,fremont's cottonwood,alamo cottonwood,desert cottonwood,frémont cottonwood,populus arizonica
 bigtooth aspen,populus grandidentata,largetooth aspen
