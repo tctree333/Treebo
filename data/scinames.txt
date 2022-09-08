@@ -41,11 +41,12 @@ black cherry,prunus serotina
 chokecherry,prunus virginiana
 american mountain ash,sorbus americana
 narrowleaf cottonwood,populus angustifolia
-black cottonwood,populus trichocarpa
+balsam poplar,populus balsamifera
 eastern cottonwood,populus deltoides
 fremont cottonwood,populus fremontii
 bigtooth aspen,populus grandidentata
 trembling aspen,populus tremuloides
+black cottonwood,populus trichocarpa
 bebb's willow,salix bebbiana
 black willow,salix nigra
 scouler's willow,salix scouleriana
