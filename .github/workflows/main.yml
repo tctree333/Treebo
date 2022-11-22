@@ -10,14 +10,14 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
 
       - name: Sentry Deploys
-        uses: tctree333/SciOlyID-Actions/sentry@master
-        with:
-          sentry auth: ${{ secrets.SENTRY_TOKEN }}
-          sentry org: 'sciolyid'
-          sentry project 1: treebo
+        uses: getsentry/action-release@v1
+        env:
+          SENTRY_AUTH_TOKEN: ${{ secrets.SENTRY_INTEGRATION_TOKEN }}
+          SENTRY_ORG: sciolyid
+          SENTRY_PROJECT: treebo
 
       - name: Deploy to Dokku
         uses: tctree333/SciOlyID-Actions/deploy-dokku@master
