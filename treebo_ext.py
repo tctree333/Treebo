@@ -17,6 +17,7 @@
 import logging
 
 import aiohttp
+from discord import app_commands
 from discord.ext import commands
 from sciolyid.data import get_aliases, possible_words
 from sciolyid.util import better_spellcheck, cache
@@ -48,37 +49,39 @@ class Treebo(commands.Cog):
         return current_item, content["results"][0]["uri"]
 
     # Observation command - gives original iNaturalist observation from observation code
-    @commands.command(
+    @commands.hybrid_command(
         help="- Gives the original iNaturalist observation from an observation code",
         aliases=["source", "asset", "original", "orig", "obs"],
     )
     @commands.check(CustomCooldown(5.0, bucket=commands.BucketType.user))
-    async def observation(self, ctx, *, arg):
+    @app_commands.describe(
+        code="The asset code to search for.",
+        name="The tree name that corresponds to the asset.",
+    )
+    async def observation(self, ctx: commands.Context, code: str, *, name: str):
         logger.info("command: observation")
 
-        arg = arg.strip().split(" ")
-        code = arg[0]
-        guess = " ".join(arg[1:]).lower().replace("-", " ").strip()
+        guess = name.lower().replace("-", " ").strip()
         if not guess:
-            await ctx.send("Please provide the tree name to get the original asset.")
+            await ctx.send("Please provide the tree name to get the original asset.", ephemeral=True)
             return
 
         try:
             asset = str(int(decrypt_chacha(code).hex(), 16))
             current_item, url = await self.item_from_obs(asset)
         except:
-            await ctx.send("**Invalid asset code!**")
+            await ctx.send("**Invalid asset code!**", ephemeral=True)
             return
 
         correct_list = (x.lower() for x in get_aliases(current_item))
         correct = better_spellcheck(guess, correct_list, possible_words)
         if correct or ((await self.bot.is_owner(ctx.author)) and guess == "please"):
-            await ctx.send(f"**Here you go!** {url}")
+            await ctx.send(f"**Here you go!**\n{url}")
         else:
             await ctx.send(
-                f"**Sorry, that's not the correct tree.**\n*Please try again.*"
+                f"**Sorry, that's not the correct tree.**\n*Please try again.*", ephemeral=True
             )
 
 
-def setup(bot):
-    bot.add_cog(Treebo(bot))
+async def setup(bot):
+    await bot.add_cog(Treebo(bot))
