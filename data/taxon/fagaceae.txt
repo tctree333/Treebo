@@ -4,10 +4,10 @@ tanoak,tanoak,notholithocarpus densiflorus,tanbark-oak,lithocarpus densiflorus
 coast live oak,quercus agrifolia,encina,california live oak,evergreen oak,coastal live oak
 white oak,quercus alba,eastern white oak
 swamp white oak,quercus bicolor,bicolor oak,quercus filiformis
-canyon live oak,quercus chrysolepis,maul oak,golden cup oak
+canyon live oak,quercus chrysolepis,maul oak,golden cup oak,canyonlive oak
 blue oak,quercus douglasii
 southern red oak,quercus falcata,spanish oak
-oregon oak,quercus garryana,oregon oak,garry oak
+oregon oak,quercus garryana,oregon oak,garry oak,oregon white oak
 shingle oak,quercus imbricaria
 california black oak,quercus kelloggii,california black oak
 bur oak,quercus macrocarpa,mossy-cup oak,burr oak,prairie oak,mossy-overcup oak
@@ -16,4 +16,4 @@ pin oak,quercus palustris,quepal,swamp spanish oak
 chestnut oak,quercus montana,quercus prinus
 northern red oak,quercus rubra,champion oak,quercus borealis
 black oak,quercus velutina,eastern black oak
-southern live oak,quercus virginiana
+southern live oak,quercus virginiana,live oak

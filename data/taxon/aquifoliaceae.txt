@@ -1,2 +1,2 @@
-american holly,american holly,ilex opaca
-yaupon holly,ilex vomitoria,yaupon holly
+american holly,ilex opaca,american holly
+yaupon holly,ilex vomitoria,yaupon holly,yaupon

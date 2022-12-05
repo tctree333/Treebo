@@ -5,6 +5,6 @@ fremont cottonwood,populus fremontii,fremont cottonwood,fremont's cottonwood,ala
 bigtooth aspen,populus grandidentata,largetooth aspen
 trembling aspen,populus tremuloides,quaking aspen,aspen poplar,popple,american aspen,quakies,mountain aspen,trembling poplar
 black cottonwood,populus trichocarpa,western balsam poplar,populus balsamifera trichocarpa
-bebb's willow,salix bebbiana,beaked willow,long-beaked willow,salix xerophila
+bebb's willow,salix bebbiana,beaked willow,long-beaked willow,salix xerophila,bebb willow
 black willow,salix nigra,salix ambigua
-scouler's willow,salix scouleriana,scouler's willow
+scouler's willow,salix scouleriana,scouler's willow,scouler willow

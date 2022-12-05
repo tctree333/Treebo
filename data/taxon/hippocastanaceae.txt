@@ -1,0 +1,2 @@
+california buckeye,aesculus californica,california buckeye
+ohio buckeye,aesculus glabra,ohio buckeye,texas buckeye

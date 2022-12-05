@@ -11,12 +11,12 @@ blue spruce,picea pungens,colorado blue spruce,colorado spruce
 red spruce,picea rubens,yellow spruce,he balsam
 sitka spruce,picea sitchensis,sitka spruce,western spruce,tideland spruce,alaska spruce
 whitebark pine,pinus albicaulis,whitebark pine,scrub pine,northern nut pine
-rocky mountain bristlecone pine,pinus aristata,rocky mountain bristlecone pine,colorado bristlecone pine,foxtail pine,hickory pine,pricklecone pine
+rocky mountain bristlecone pine,pinus aristata,colorado bristlecone pine,foxtail pine,hickory pine,pricklecone pine,bristlecone pine
 knobcone pine,pinus attenuata
-jack pine,pinus banksiana,jack pine,scrub pine,gray pine,black pine
+jack pine,pinus banksiana,scrub pine,gray pine,black pine
 lodgepole pine,pinus contorta,contorta pine,tamarack pine,scrub pine
 shortleaf pine,pinus echinata,short-leaf pine,yellow pine,shortstraw pine,arkansas pine,rosemary pine,long-tag pine
-colorado pinyon,pinus edulis,colorado pinyon,two-needle pinyon,twin-needle pinyon,piñon pine,pinyon pine,two-needle pinyon pine,twoneedle pinyon,colorado piñon,twoneedle piñon,nut pine,rocky mountain pinyon,pinus cembroides edulis,pinus edulis edulis,pinus edulis fallax
+colorado pinyon,pinus edulis,colorado pinyon pine,two-needle pinyon,twin-needle pinyon,piñon pine,pinyon pine,two-needle pinyon pine,twoneedle pinyon,colorado piñon,twoneedle piñon,nut pine,rocky mountain pinyon,pinus cembroides edulis,pinus edulis edulis,pinus edulis fallax
 limber pine,pinus flexilis,rocky mountain white pine,squirrel pine
 sugar pine,pinus lambertiana,big pine,pinus lambertiana brevifolia,pinus lambertiana minor,pinus lambertiana purpurea,pinus lambertiana martirensis
 singleleaf pinyon,pinus monophylla,singleleaf piñon,single leaf pinyon pine
