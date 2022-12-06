@@ -2,5 +2,3 @@ box elder,acer negundo,manitoba maple,ash-leaved maple,boxelder,ashleaf maple,bo
 red maple,acer rubrum,soft maple,swamp maple
 silver maple,acer saccharinum,white maple,river maple
 sugar maple,acer saccharum,hard maple
-california buckeye,aesculus californica,california buckeye
-ohio buckeye,aesculus glabra,ohio buckeye,texas buckeye

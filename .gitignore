@@ -5,3 +5,4 @@ __pycache__
 bot_files
 setup_local.sh
 dump.rdb
+venv
