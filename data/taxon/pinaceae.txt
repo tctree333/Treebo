@@ -26,7 +26,7 @@ ponderosa pine,pinus ponderosa,ponderosa pine,western yellow pine,blackjack pine
 red pine,pinus resinosa,norway pine
 pitch pine,pinus rigida,northern pitch pine,torch pine,sap pine
 eastern white pine,pinus strobus,white pine,strobus pine,weymouth pine,pumpkin pine,pinus tenuifolia,pinus strobus strobus
-loblolly pine,pinus taeda,sea pine,frankincense pine,old field pine,oldfield pine,shortleaf pine,north carolina pine
+loblolly pine,pinus taeda,sea pine,frankincense pine,old field pine,oldfield pine,north carolina pine
 virginia pine,pinus virginiana,virginia pine,jersey pine,scrub pine
 common douglas-fir,pseudotsuga menziesii,common douglas-fir,douglas-fir,douglas fir,oregon pine,north american douglas-fir,psuedotsuga menziesii,pseudotsuga douglasii
 eastern hemlock,tsuga canadensis,canada hemlock,canadian hemlock,eastern hemlock-spruce,hemlock spruce,picea canadensis
