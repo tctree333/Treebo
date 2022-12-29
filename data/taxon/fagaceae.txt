@@ -11,13 +11,13 @@ chestnut oak,quercus montana,quercus prinus
 chinkapin oak,quercus muehlenbergii,yellow oak,chinquapin oak,yellow chestnut oak,common chinkapin oak,quercus muhlenbergii,quercus acuminata,quercus prinoides acuminata,quercus prinuss acuminata,quercus rubra muehlenbergii
 coast live oak,quercus agrifolia,encina,california live oak,evergreen oak,coastal live oak
 northern red oak,quercus rubra,champion oak,quercus borealis
-oregon oak,quercus garryana,oregon oak,garry oak
+oregon oak,quercus garryana,oregon oak,garry oak,oregon white oak
 overcup oak,quercus lyrata,swamp post oak
 pin oak,quercus palustris,quepal,swamp spanish oak
 post oak,quercus stellata
 scarlet oak,quercus coccinea
 shingle oak,quercus imbricaria
-southern live oak,quercus virginiana
+southern live oak,quercus virginiana,live oak
 southern red oak,quercus falcata,spanish oak
 swamp chestnut oak,quercus michauxii,basket oak,cow oak
 swamp white oak,quercus bicolor,bicolor oak,quercus filiformis

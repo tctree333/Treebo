@@ -1,5 +1,5 @@
 atlantic white cedar,chamaecyparis thyoides,atlantic white cedar,atlantic white cypress,atlantic whitecedar,atlantic white-cedar,southern whitecedar,coast whitecedar,white cypress
-baldcypress,taxodium distichum,bald cypress,bald-cypress,swamp cypress,deciduous cypress,sabino tree,taxodium distichum distichum,taxodium distichum mexicanum
+baldcypress,taxodium distichum,bald cypress,bald-cypress,swamp cypress,deciduous cypress,sabino tree,taxodium distichum distichum,taxodium distichum mexicanum,baldcyprus
 coast redwood,sequoia sempervirens,redwood,california redwood
 eastern redcedar,juniperus virginiana,eastern juniper,eastern red cedar,southern redcedar,red juniper,red cedar,pencil cedar
 giant sequoia,sequoiadendron giganteum,giant redwood,wellingtonia,sierra redwood,bigtree,sequoiadendron giganteum pendulum

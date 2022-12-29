@@ -1,10 +1,10 @@
 balsam poplar,eastern balsam poplar,populus balsamifera
 black cottonwood,populus trichocarpa,western balsam poplar,populus balsamifera trichocarpa
-bebb's willow,salix bebbiana,beaked willow,long-beaked willow,salix xerophila
+bebb's willow,salix bebbiana,beaked willow,long-beaked willow,salix xerophila,bebb willow
 bigtooth aspen,populus grandidentata,largetooth aspen
 black willow,salix nigra,salix ambigua
 eastern cottonwood,populus deltoides,eastern cottonwood,necklace poplar,match poplar
 fremont cottonwood,populus fremontii,fremont cottonwood,fremont's cottonwood,alamo cottonwood,desert cottonwood,frémont cottonwood,populus arizonica
 narrowleaf cottonwood,narrowleaf cottonwood,populus angustifolia,narrow-leaved cottonwood,mountain cottonwood
-scouler's willow,salix scouleriana,scouler's willow
+scouler's willow,salix scouleriana,scouler's willow,scouler willow
 trembling aspen,populus tremuloides,quaking aspen,aspen poplar,popple,american aspen,quakies,mountain aspen,trembling poplar
