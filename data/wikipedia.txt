@@ -1,152 +1,179 @@
-coast redwood,https://en.wikipedia.org/wiki/Sequoia_sempervirens
-giant sequoia,https://en.wikipedia.org/wiki/Sequoiadendron_giganteum
-baldcypress,https://en.wikipedia.org/wiki/Taxodium_distichum
-ginkgo,https://en.wikipedia.org/wiki/Ginkgo_biloba
-pacific yew,https://en.wikipedia.org/wiki/Taxus_brevifolia
-balsam fir,https://en.wikipedia.org/wiki/Abies_balsamea
-white fir,https://en.wikipedia.org/wiki/Abies_concolor
-grand fir,https://en.wikipedia.org/wiki/Abies_grandis
-subalpine fir,https://en.wikipedia.org/wiki/Abies_lasiocarpa
-tamarack,https://en.wikipedia.org/wiki/Larix_laricina
-western larch,https://en.wikipedia.org/wiki/Larix_occidentalis
-engelmann spruce,https://en.wikipedia.org/wiki/Picea_engelmannii
-white spruce,https://en.wikipedia.org/wiki/Picea_glauca
-black spruce,https://en.wikipedia.org/wiki/Picea_mariana
-blue spruce,https://en.wikipedia.org/wiki/Blue_spruce
-red spruce,https://en.wikipedia.org/wiki/Picea_rubens
-sitka spruce,https://en.wikipedia.org/wiki/Picea_sitchensis
-whitebark pine,https://en.wikipedia.org/wiki/Pinus_albicaulis
-rocky mountain bristlecone pine,https://en.wikipedia.org/wiki/Pinus_aristata
-knobcone pine,https://en.wikipedia.org/wiki/Knobcone_pine
-jack pine,https://en.wikipedia.org/wiki/Jack_pine
-lodgepole pine,https://en.wikipedia.org/wiki/Pinus_contorta
-shortleaf pine,https://en.wikipedia.org/wiki/Pinus_echinata
-colorado pinyon,https://en.wikipedia.org/wiki/Pinus_edulis
-limber pine,https://en.wikipedia.org/wiki/Pinus_flexilis
-sugar pine,https://en.wikipedia.org/wiki/Pinus_lambertiana
-singleleaf pinyon,https://en.wikipedia.org/wiki/Pinus_monophylla
-western white pine,https://en.wikipedia.org/wiki/Western_white_pine
-longleaf pine,https://en.wikipedia.org/wiki/Pinus_palustris
-ponderosa pine,https://en.wikipedia.org/wiki/Pinus_ponderosa
-red pine,https://en.wikipedia.org/wiki/Pinus_resinosa
-pitch pine,https://en.wikipedia.org/wiki/Pinus_rigida
-eastern white pine,https://en.wikipedia.org/wiki/Pinus_strobus
-loblolly pine,https://en.wikipedia.org/wiki/Pinus_taeda
-virginia pine,https://en.wikipedia.org/wiki/Pinus_virginiana
-common douglas-fir,https://en.wikipedia.org/wiki/Douglas_fir
-eastern hemlock,https://en.wikipedia.org/wiki/Tsuga_canadensis
-western hemlock,https://en.wikipedia.org/wiki/Tsuga_heterophylla
-mountain hemlock,https://en.wikipedia.org/wiki/Tsuga_mertensiana
-lawson's cypress,https://en.wikipedia.org/wiki/Chamaecyparis_lawsoniana
-monterey cypress,https://en.wikipedia.org/wiki/Cupressus_macrocarpa
-utah juniper,https://en.wikipedia.org/wiki/Juniperus_osteosperma
-rocky mountain juniper,https://en.wikipedia.org/wiki/Juniperus_scopulorum
-eastern redcedar,https://en.wikipedia.org/wiki/Juniperus_virginiana
-northern whitecedar,https://en.wikipedia.org/wiki/Thuja_occidentalis
-western redcedar,https://en.wikipedia.org/wiki/Thuja_plicata
-cabbage palmetto,https://en.wikipedia.org/wiki/Sabal_palmetto
-california fan palm,https://en.wikipedia.org/wiki/Washingtonia_filifera
-narrowleaf cottonwood,https://en.wikipedia.org/wiki/Populus_angustifolia
-balsam poplar,https://en.wikipedia.org/wiki/Populus_balsamifera
-eastern cottonwood,https://en.wikipedia.org/wiki/Populus_deltoides
-fremont cottonwood,https://en.wikipedia.org/wiki/Populus_fremontii
-bigtooth aspen,https://en.wikipedia.org/wiki/Populus_grandidentata
-trembling aspen,https://en.wikipedia.org/wiki/Populus_tremuloides
-black cottonwood,https://en.wikipedia.org/wiki/Populus_trichocarpa
-bebb's willow,https://en.wikipedia.org/wiki/Salix_bebbiana
-black willow,https://en.wikipedia.org/wiki/Salix_nigra
-scouler's willow,https://en.wikipedia.org/wiki/Salix_scouleriana
-bitternut hickory,https://en.wikipedia.org/wiki/Carya_cordiformis
-pignut hickory,https://en.wikipedia.org/wiki/Carya_glabra
-pecan,https://en.wikipedia.org/wiki/Pecan
-shagbark hickory,https://en.wikipedia.org/wiki/Carya_ovata
-butternut,https://en.wikipedia.org/wiki/Juglans_cinerea
-eastern black walnut,https://en.wikipedia.org/wiki/Juglans_nigra
-red alder,https://en.wikipedia.org/wiki/Alnus_rubra
-yellow birch,https://en.wikipedia.org/wiki/Betula_alleghaniensis
-sweet birch,https://en.wikipedia.org/wiki/Betula_lenta
-water birch,https://en.wikipedia.org/wiki/Betula_occidentalis
-paper birch,https://en.wikipedia.org/wiki/Betula_papyrifera
-gray birch,https://en.wikipedia.org/wiki/Betula_populifolia
-american hornbeam,https://en.wikipedia.org/wiki/Carpinus_caroliniana
-american hophornbeam,https://en.wikipedia.org/wiki/Ostrya_virginiana
-american chestnut,https://en.wikipedia.org/wiki/American_chestnut
 american beech,https://en.wikipedia.org/wiki/Fagus_grandifolia
-tanoak,https://en.wikipedia.org/wiki/Notholithocarpus
-coast live oak,https://en.wikipedia.org/wiki/Quercus_agrifolia
-white oak,https://en.wikipedia.org/wiki/Quercus_alba
-swamp white oak,https://en.wikipedia.org/wiki/Quercus_bicolor
-canyon live oak,https://en.wikipedia.org/wiki/Quercus_chrysolepis
-blue oak,https://en.wikipedia.org/wiki/Quercus_douglasii
-southern red oak,https://en.wikipedia.org/wiki/Quercus_falcata
-oregon oak,https://en.wikipedia.org/wiki/Quercus_garryana
-shingle oak,https://en.wikipedia.org/wiki/Quercus_imbricaria
-california black oak,https://en.wikipedia.org/wiki/Quercus_kelloggii
-bur oak,https://en.wikipedia.org/wiki/Quercus_macrocarpa
-chinkapin oak,https://en.wikipedia.org/wiki/Quercus_muehlenbergii
-pin oak,https://en.wikipedia.org/wiki/Quercus_palustris
-chestnut oak,https://en.wikipedia.org/wiki/Quercus_montana
-northern red oak,https://en.wikipedia.org/wiki/Quercus_rubra
-black oak,https://en.wikipedia.org/wiki/Quercus_velutina
-southern live oak,https://en.wikipedia.org/wiki/Quercus_virginiana
-common hackberry,https://en.wikipedia.org/wiki/Celtis_occidentalis
+american black elderberry,https://en.wikipedia.org/wiki/Sambucus_canadensis
+american chestnut,https://en.wikipedia.org/wiki/American_chestnut
 american elm,https://en.wikipedia.org/wiki/Ulmus_americana
-slippery elm,https://en.wikipedia.org/wiki/Ulmus_rubra
-osage-orange,https://en.wikipedia.org/wiki/Maclura_pomifera
-white mulberry,https://en.wikipedia.org/wiki/Morus_alba
-red mulberry,https://en.wikipedia.org/wiki/Morus_rubra
-tulip tree,https://en.wikipedia.org/wiki/Liriodendron_tulipifera
-southern magnolia,https://en.wikipedia.org/wiki/Magnolia_grandiflora
-bigleaf magnolia,https://en.wikipedia.org/wiki/Magnolia_macrophylla
-common pawpaw,https://en.wikipedia.org/wiki/Asimina_triloba
-sassafras,https://en.wikipedia.org/wiki/Sassafras_albidum
-california bay,https://en.wikipedia.org/wiki/Umbellularia
-american witch-hazel,https://en.wikipedia.org/wiki/Hamamelis_virginiana
+american holly,https://en.wikipedia.org/wiki/Ilex_opaca
+american hophornbeam,https://en.wikipedia.org/wiki/Ostrya_virginiana
+american hornbeam,https://en.wikipedia.org/wiki/Carpinus_caroliniana
+american mountain ash,https://en.wikipedia.org/wiki/Sorbus_americana
+american persimmon,https://en.wikipedia.org/wiki/Diospyros_virginiana
+american plum,https://en.wikipedia.org/wiki/Prunus_americana
 american sweetgum,https://en.wikipedia.org/wiki/Liquidambar_styraciflua
 american sycamore,https://en.wikipedia.org/wiki/Platanus_occidentalis
-western sycamore,https://en.wikipedia.org/wiki/Platanus_racemosa
-saskatoon,https://en.wikipedia.org/wiki/Amelanchier_alnifolia
-curlleaf mountain mahogany,https://en.wikipedia.org/wiki/Cercocarpus_ledifolius
-black hawthorn,https://en.wikipedia.org/wiki/Crataegus_douglasii
-waxy-fruited hawthorn,https://en.wikipedia.org/wiki/Crataegus_pruinosa
-toyon,https://en.wikipedia.org/wiki/Heteromeles
-american plum,https://en.wikipedia.org/wiki/Prunus_americana
-bitter cherry,https://en.wikipedia.org/wiki/Prunus_emarginata
-fire cherry,https://en.wikipedia.org/wiki/Prunus_pensylvanica
-black cherry,https://en.wikipedia.org/wiki/Prunus_serotina
-chokecherry,https://en.wikipedia.org/wiki/Prunus_virginiana
-american mountain ash,https://en.wikipedia.org/wiki/Sorbus_americana
-sweet acacia,https://en.wikipedia.org/wiki/Vachellia_farnesiana
-eastern redbud,https://en.wikipedia.org/wiki/Cercis_canadensis
-blue palo verde,https://en.wikipedia.org/wiki/Parkinsonia_florida
-honey locust,https://en.wikipedia.org/wiki/Honey_locust
-kentucky coffeetree,https://en.wikipedia.org/wiki/Kentucky_coffeetree
-honey mesquite,https://en.wikipedia.org/wiki/Prosopis_glandulosa
-black locust,https://en.wikipedia.org/wiki/Robinia_pseudoacacia
-hercules' club,https://en.wikipedia.org/wiki/Zanthoxylum_clava-herculis
-tree-of-heaven,https://en.wikipedia.org/wiki/Ailanthus_altissima
-smooth sumac,https://en.wikipedia.org/wiki/Rhus_glabra
-american holly,https://en.wikipedia.org/wiki/Ilex_opaca
-yaupon holly,https://en.wikipedia.org/wiki/Ilex_vomitoria
-box elder,https://en.wikipedia.org/wiki/Acer_negundo
-red maple,https://en.wikipedia.org/wiki/Acer_rubrum
-silver maple,https://en.wikipedia.org/wiki/Acer_saccharinum
-sugar maple,https://en.wikipedia.org/wiki/Acer_saccharum
-california buckeye,https://en.wikipedia.org/wiki/Aesculus_californica
-ohio buckeye,https://en.wikipedia.org/wiki/Aesculus_glabra
+american turkey oak,https://en.wikipedia.org/wiki/Quercus_laevis
+american witch-hazel,https://en.wikipedia.org/wiki/Hamamelis_virginiana
+amur honeysuckle,https://en.wikipedia.org/wiki/Lonicera_maackii
+atlantic white cedar,https://en.wikipedia.org/wiki/Chamaecyparis_thyoides
+baldcypress,https://en.wikipedia.org/wiki/Taxodium_distichum
+balsam fir,https://en.wikipedia.org/wiki/Abies_balsamea
+balsam poplar,https://en.wikipedia.org/wiki/Populus_balsamifera
 basswood,https://en.wikipedia.org/wiki/Tilia_americana
-saguaro,https://en.wikipedia.org/wiki/Saguaro
-eurabbie,https://en.wikipedia.org/wiki/Eucalyptus_globulus
-flowering dogwood,https://en.wikipedia.org/wiki/Cornus_florida
-pacific dogwood,https://en.wikipedia.org/wiki/Cornus_nuttallii
+bebb's willow,https://en.wikipedia.org/wiki/Salix_bebbiana
+bigleaf magnolia,https://en.wikipedia.org/wiki/Magnolia_macrophylla
+bigtooth aspen,https://en.wikipedia.org/wiki/Populus_grandidentata
+bitter cherry,https://en.wikipedia.org/wiki/Prunus_emarginata
+bitternut hickory,https://en.wikipedia.org/wiki/Carya_cordiformis
+black cherry,https://en.wikipedia.org/wiki/Prunus_serotina
+black cottonwood,https://en.wikipedia.org/wiki/Populus_trichocarpa
+black hawthorn,https://en.wikipedia.org/wiki/Crataegus_douglasii
+black locust,https://en.wikipedia.org/wiki/Robinia_pseudoacacia
+black oak,https://en.wikipedia.org/wiki/Quercus_velutina
+black spruce,https://en.wikipedia.org/wiki/Picea_mariana
 black tupelo,https://en.wikipedia.org/wiki/Nyssa_sylvatica
-pacific madrone,https://en.wikipedia.org/wiki/Arbutus_menziesii
-american persimmon,https://en.wikipedia.org/wiki/Diospyros_virginiana
-white ash,https://en.wikipedia.org/wiki/Fraxinus_americana
-oregon ash,https://en.wikipedia.org/wiki/Fraxinus_latifolia
-velvet ash,https://en.wikipedia.org/wiki/Fraxinus_velutina
-southern catalpa,https://en.wikipedia.org/wiki/Catalpa_bignonioides
-northern catalpa,https://en.wikipedia.org/wiki/Catalpa_speciosa
-desert willow,https://en.wikipedia.org/wiki/Chilopsis
-american black elderberry,https://en.wikipedia.org/wiki/Sambucus_canadensis
+black willow,https://en.wikipedia.org/wiki/Salix_nigra
+blackjack oak,https://en.wikipedia.org/wiki/Quercus_marilandica
+blue oak,https://en.wikipedia.org/wiki/Quercus_douglasii
+blue palo verde,https://en.wikipedia.org/wiki/Parkinsonia_florida
+blue spruce,https://en.wikipedia.org/wiki/Blue_spruce
+box elder,https://en.wikipedia.org/wiki/Acer_negundo
+bur oak,https://en.wikipedia.org/wiki/Quercus_macrocarpa
+butternut,https://en.wikipedia.org/wiki/Juglans_cinerea
+cabbage palmetto,https://en.wikipedia.org/wiki/Sabal_palmetto
+california bay,https://en.wikipedia.org/wiki/Umbellularia
+california black oak,https://en.wikipedia.org/wiki/Quercus_kelloggii
+california buckeye,https://en.wikipedia.org/wiki/Aesculus_californica
+california fan palm,https://en.wikipedia.org/wiki/Washingtonia_filifera
 candlenut,https://en.wikipedia.org/wiki/Aleurites_moluccanus
+canyon live oak,https://en.wikipedia.org/wiki/Quercus_chrysolepis
+chestnut oak,https://en.wikipedia.org/wiki/Quercus_montana
+chinkapin oak,https://en.wikipedia.org/wiki/Quercus_muehlenbergii
+chokecherry,https://en.wikipedia.org/wiki/Prunus_virginiana
+coast live oak,https://en.wikipedia.org/wiki/Quercus_agrifolia
+coast redwood,https://en.wikipedia.org/wiki/Sequoia_sempervirens
+colorado pinyon,https://en.wikipedia.org/wiki/Pinus_edulis
+common douglas-fir,https://en.wikipedia.org/wiki/Douglas_fir
+common hackberry,https://en.wikipedia.org/wiki/Celtis_occidentalis
+common pawpaw,https://en.wikipedia.org/wiki/Asimina_triloba
+cucumber-tree,https://en.wikipedia.org/wiki/Magnolia_acuminata
+curlleaf mountain mahogany,https://en.wikipedia.org/wiki/Cercocarpus_ledifolius
+desert willow,https://en.wikipedia.org/wiki/Chilopsis
+eastern black walnut,https://en.wikipedia.org/wiki/Juglans_nigra
+eastern cottonwood,https://en.wikipedia.org/wiki/Populus_deltoides
+eastern hemlock,https://en.wikipedia.org/wiki/Tsuga_canadensis
+eastern redbud,https://en.wikipedia.org/wiki/Cercis_canadensis
+eastern redcedar,https://en.wikipedia.org/wiki/Juniperus_virginiana
+eastern white pine,https://en.wikipedia.org/wiki/Pinus_strobus
+engelmann spruce,https://en.wikipedia.org/wiki/Picea_engelmannii
+eurabbie,https://en.wikipedia.org/wiki/Eucalyptus_globulus
+fire cherry,https://en.wikipedia.org/wiki/Prunus_pensylvanica
+flowering dogwood,https://en.wikipedia.org/wiki/Cornus_florida
+fraser fir,https://en.wikipedia.org/wiki/Fraser_fir
+fraser magnolia,https://en.wikipedia.org/wiki/Magnolia_fraseri
+fremont cottonwood,https://en.wikipedia.org/wiki/Populus_fremontii
+giant sequoia,https://en.wikipedia.org/wiki/Sequoiadendron_giganteum
+ginkgo,https://en.wikipedia.org/wiki/Ginkgo_biloba
+grand fir,https://en.wikipedia.org/wiki/Abies_grandis
+gray birch,https://en.wikipedia.org/wiki/Betula_populifolia
+green ash,https://en.wikipedia.org/wiki/Fraxinus_pennsylvanica
+hercules' club,https://en.wikipedia.org/wiki/Zanthoxylum_clava-herculis
+honey locust,https://en.wikipedia.org/wiki/Honey_locust
+honey mesquite,https://en.wikipedia.org/wiki/Prosopis_glandulosa
+jack pine,https://en.wikipedia.org/wiki/Jack_pine
+kentucky coffeetree,https://en.wikipedia.org/wiki/Kentucky_coffeetree
+knobcone pine,https://en.wikipedia.org/wiki/Knobcone_pine
+lawson's cypress,https://en.wikipedia.org/wiki/Chamaecyparis_lawsoniana
+limber pine,https://en.wikipedia.org/wiki/Pinus_flexilis
+loblolly bay,https://en.wikipedia.org/wiki/Gordonia_lasianthus
+loblolly pine,https://en.wikipedia.org/wiki/Pinus_taeda
+lodgepole pine,https://en.wikipedia.org/wiki/Pinus_contorta
+longleaf pine,https://en.wikipedia.org/wiki/Pinus_palustris
+mockernut,https://en.wikipedia.org/wiki/Carya_tomentosa
+monterey cypress,https://en.wikipedia.org/wiki/Cupressus_macrocarpa
+mountain hemlock,https://en.wikipedia.org/wiki/Tsuga_mertensiana
+narrowleaf cottonwood,https://en.wikipedia.org/wiki/Populus_angustifolia
+northern catalpa,https://en.wikipedia.org/wiki/Catalpa_speciosa
+northern red oak,https://en.wikipedia.org/wiki/Quercus_rubra
+northern whitecedar,https://en.wikipedia.org/wiki/Thuja_occidentalis
+ohio buckeye,https://en.wikipedia.org/wiki/Aesculus_glabra
+oregon ash,https://en.wikipedia.org/wiki/Fraxinus_latifolia
+oregon oak,https://en.wikipedia.org/wiki/Quercus_garryana
+osage-orange,https://en.wikipedia.org/wiki/Maclura_pomifera
+overcup oak,https://en.wikipedia.org/wiki/Quercus_lyrata
+pacific dogwood,https://en.wikipedia.org/wiki/Cornus_nuttallii
+pacific madrone,https://en.wikipedia.org/wiki/Arbutus_menziesii
+pacific yew,https://en.wikipedia.org/wiki/Taxus_brevifolia
+painted buckeye,https://en.wikipedia.org/wiki/Aesculus_sylvatica
+paper birch,https://en.wikipedia.org/wiki/Betula_papyrifera
+pecan,https://en.wikipedia.org/wiki/Pecan
+pignut hickory,https://en.wikipedia.org/wiki/Carya_glabra
+pin oak,https://en.wikipedia.org/wiki/Quercus_palustris
+pitch pine,https://en.wikipedia.org/wiki/Pinus_rigida
+pond pine,https://en.wikipedia.org/wiki/Pinus_serotina
+ponderosa pine,https://en.wikipedia.org/wiki/Pinus_ponderosa
+post oak,https://en.wikipedia.org/wiki/Quercus_stellata
+red alder,https://en.wikipedia.org/wiki/Alnus_rubra
+red maple,https://en.wikipedia.org/wiki/Acer_rubrum
+red mulberry,https://en.wikipedia.org/wiki/Morus_rubra
+red pine,https://en.wikipedia.org/wiki/Pinus_resinosa
+red spruce,https://en.wikipedia.org/wiki/Picea_rubens
+river birch,https://en.wikipedia.org/wiki/Betula_nigra
+rocky mountain bristlecone pine,https://en.wikipedia.org/wiki/Pinus_aristata
+rocky mountain juniper,https://en.wikipedia.org/wiki/Juniperus_scopulorum
+saguaro,https://en.wikipedia.org/wiki/Saguaro
+saskatoon,https://en.wikipedia.org/wiki/Amelanchier_alnifolia
+sassafras,https://en.wikipedia.org/wiki/Sassafras_albidum
+scarlet oak,https://en.wikipedia.org/wiki/Quercus_coccinea
+scouler's willow,https://en.wikipedia.org/wiki/Salix_scouleriana
+shagbark hickory,https://en.wikipedia.org/wiki/Carya_ovata
+shingle oak,https://en.wikipedia.org/wiki/Quercus_imbricaria
+shining sumac,https://en.wikipedia.org/wiki/Rhus_copallinum
+shortleaf pine,https://en.wikipedia.org/wiki/Pinus_echinata
+silver maple,https://en.wikipedia.org/wiki/Acer_saccharinum
+singleleaf pinyon,https://en.wikipedia.org/wiki/Pinus_monophylla
+sitka spruce,https://en.wikipedia.org/wiki/Picea_sitchensis
+slippery elm,https://en.wikipedia.org/wiki/Ulmus_rubra
+smooth sumac,https://en.wikipedia.org/wiki/Rhus_glabra
+sourwood,https://en.wikipedia.org/wiki/Oxydendrum
+southern catalpa,https://en.wikipedia.org/wiki/Catalpa_bignonioides
+southern live oak,https://en.wikipedia.org/wiki/Quercus_virginiana
+southern magnolia,https://en.wikipedia.org/wiki/Magnolia_grandiflora
+southern red oak,https://en.wikipedia.org/wiki/Quercus_falcata
+subalpine fir,https://en.wikipedia.org/wiki/Abies_lasiocarpa
+sugar hackberry,https://en.wikipedia.org/wiki/Celtis_laevigata
+sugar maple,https://en.wikipedia.org/wiki/Acer_saccharum
+sugar pine,https://en.wikipedia.org/wiki/Pinus_lambertiana
+swamp chestnut oak,https://en.wikipedia.org/wiki/Quercus_michauxii
+swamp white oak,https://en.wikipedia.org/wiki/Quercus_bicolor
+sweet acacia,https://en.wikipedia.org/wiki/Vachellia_farnesiana
+sweet birch,https://en.wikipedia.org/wiki/Betula_lenta
+sweetbay magnolia,https://en.wikipedia.org/wiki/Magnolia_virginiana
+table mountain pine,https://en.wikipedia.org/wiki/Table_mountain_pine
+tamarack,https://en.wikipedia.org/wiki/Larix_laricina
+tanoak,https://en.wikipedia.org/wiki/Notholithocarpus
+toyon,https://en.wikipedia.org/wiki/Heteromeles
+tree-of-heaven,https://en.wikipedia.org/wiki/Ailanthus_altissima
+trembling aspen,https://en.wikipedia.org/wiki/Populus_tremuloides
+tulip tree,https://en.wikipedia.org/wiki/Liriodendron_tulipifera
+utah juniper,https://en.wikipedia.org/wiki/Juniperus_osteosperma
+velvet ash,https://en.wikipedia.org/wiki/Fraxinus_velutina
+virginia pine,https://en.wikipedia.org/wiki/Pinus_virginiana
+water birch,https://en.wikipedia.org/wiki/Betula_occidentalis
+water oak,https://en.wikipedia.org/wiki/Quercus_nigra
+water tupelo,https://en.wikipedia.org/wiki/Nyssa_aquatica
+waxy-fruited hawthorn,https://en.wikipedia.org/wiki/Crataegus_pruinosa
+western hemlock,https://en.wikipedia.org/wiki/Tsuga_heterophylla
+western larch,https://en.wikipedia.org/wiki/Larix_occidentalis
+western redcedar,https://en.wikipedia.org/wiki/Thuja_plicata
+western sycamore,https://en.wikipedia.org/wiki/Platanus_racemosa
+western white pine,https://en.wikipedia.org/wiki/Western_white_pine
+white ash,https://en.wikipedia.org/wiki/Fraxinus_americana
+white fir,https://en.wikipedia.org/wiki/Abies_concolor
+white mulberry,https://en.wikipedia.org/wiki/Morus_alba
+white oak,https://en.wikipedia.org/wiki/Quercus_alba
+white spruce,https://en.wikipedia.org/wiki/Picea_glauca
+whitebark pine,https://en.wikipedia.org/wiki/Pinus_albicaulis
+willow oak,https://en.wikipedia.org/wiki/Quercus_phellos
+winged elm,https://en.wikipedia.org/wiki/Ulmus_alata
+yaupon holly,https://en.wikipedia.org/wiki/Ilex_vomitoria
+yellow birch,https://en.wikipedia.org/wiki/Betula_alleghaniensis
+yellow buckeye,https://en.wikipedia.org/wiki/Aesculus_flava

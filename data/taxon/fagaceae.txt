@@ -1,19 +1,27 @@
-american chestnut,castanea dentata,american chestnut,castanea americana
 american beech,american beech,fagus grandifolia,gaawemizh
-tanoak,tanoak,notholithocarpus densiflorus,tanbark-oak,lithocarpus densiflorus
-coast live oak,quercus agrifolia,encina,california live oak,evergreen oak,coastal live oak
-white oak,quercus alba,eastern white oak
-swamp white oak,quercus bicolor,bicolor oak,quercus filiformis
-canyon live oak,quercus chrysolepis,maul oak,golden cup oak
-blue oak,quercus douglasii
-southern red oak,quercus falcata,spanish oak
-oregon oak,quercus garryana,oregon oak,garry oak
-shingle oak,quercus imbricaria
-california black oak,quercus kelloggii,california black oak
-bur oak,quercus macrocarpa,mossy-cup oak,burr oak,prairie oak,mossy-overcup oak
-chinkapin oak,quercus muehlenbergii,yellow oak,chinquapin oak,yellow chestnut oak,common chinkapin oak,quercus muhlenbergii,quercus acuminata,quercus prinoides acuminata,quercus prinuss acuminata,quercus rubra muehlenbergii
-pin oak,quercus palustris,quepal,swamp spanish oak
-chestnut oak,quercus montana,quercus prinus
-northern red oak,quercus rubra,champion oak,quercus borealis
+american chestnut,castanea dentata,american chestnut,castanea americana
+american turkey oak,quercus laevis,american turkey oak,turkey oak,turkey-foot oak
 black oak,quercus velutina,eastern black oak
+blackjack oak,quercus marilandica,jack oak,barren oak
+blue oak,quercus douglasii
+bur oak,quercus macrocarpa,mossy-cup oak,burr oak,prairie oak,mossy-overcup oak
+california black oak,quercus kelloggii,california black oak
+canyon live oak,quercus chrysolepis,maul oak,golden cup oak,canyon oak
+chestnut oak,quercus montana,quercus prinus
+chinkapin oak,quercus muehlenbergii,yellow oak,chinquapin oak,yellow chestnut oak,common chinkapin oak,quercus muhlenbergii,quercus acuminata,quercus prinoides acuminata,quercus prinuss acuminata,quercus rubra muehlenbergii
+coast live oak,quercus agrifolia,encina,california live oak,evergreen oak,coastal live oak
+northern red oak,quercus rubra,champion oak,quercus borealis
+oregon oak,quercus garryana,oregon oak,garry oak
+overcup oak,quercus lyrata,swamp post oak
+pin oak,quercus palustris,quepal,swamp spanish oak
+post oak,quercus stellata
+scarlet oak,quercus coccinea
+shingle oak,quercus imbricaria
 southern live oak,quercus virginiana
+southern red oak,quercus falcata,spanish oak
+swamp chestnut oak,quercus michauxii,basket oak,cow oak
+swamp white oak,quercus bicolor,bicolor oak,quercus filiformis
+tanoak,tanoak,notholithocarpus densiflorus,tanbark-oak,lithocarpus densiflorus
+water oak,quercus nigra,quercus marylandica
+white oak,quercus alba,eastern white oak
+willow oak,quercus phellos

@@ -1,11 +1,11 @@
-saskatoon,amelanchier alnifolia,saskatoon,juneberry,serviceberry,western serviceberry,saskatoon serviceberry
-curlleaf mountain mahogany,cercocarpus ledifolius,curlleaf mountain mahogany,curl-leaf mountain-mahogany
-black hawthorn,crataegus douglasii,black hawthorn,douglas thorn
-waxy-fruited hawthorn,crataegus pruinosa,frosty hawthorn,frosted hawthorn,crataegus rugosa,crataegus pruinosa rugosa,crataegus leiophylla
-toyon,heteromeles arbutifolia,toyon,christmas berry,california holly,photinia arbutifolia
+american mountain ash,sorbus americana,american mountain ash,american rowan
 american plum,prunus americana,american plum
 bitter cherry,prunus emarginata,bitter cherry
-fire cherry,prunus pensylvanica,pin cherry,bird cherry
 black cherry,prunus serotina,rum cherry,wild black cherry,padus serotina
+black hawthorn,crataegus douglasii,black hawthorn,douglas thorn
 chokecherry,prunus virginiana,choke cherry,common chokecherry,padus virginiana
-american mountain ash,sorbus americana,american mountain ash,american rowan
+curlleaf mountain mahogany,cercocarpus ledifolius,curlleaf mountain mahogany,curl-leaf mountain-mahogany
+fire cherry,prunus pensylvanica,pin cherry,bird cherry
+saskatoon,amelanchier alnifolia,saskatoon,juneberry,serviceberry,western serviceberry,saskatoon serviceberry
+toyon,heteromeles arbutifolia,toyon,christmas berry,california holly,photinia arbutifolia
+waxy-fruited hawthorn,crataegus pruinosa,frosty hawthorn,frosted hawthorn,crataegus rugosa,crataegus pruinosa rugosa,crataegus leiophylla

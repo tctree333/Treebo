@@ -12,9 +12,10 @@ headers = {
 }
 
 with open("list.txt", "r") as f:
-    data = f.readlines()
+    data = tuple(sorted(set(f.readlines())))
 
 wikipedia: Dict[str, str] = {}
+scinames: Dict[str, str] = {}
 aliases: Dict[str, List[str]] = {}
 families: Dict[str, List[str]] = {}
 family_alias: Dict[str, str] = {}
@@ -37,6 +38,7 @@ try:
             for n in returned["names"]
             if (n["locale"] == "sci" or n["locale"] == "en") and n["name"] != name
         ]
+        scinames[name] = returned["name"]
 
         specimen_family_ids = returned["ancestor_ids"]
         intersection = set(specimen_family_ids).intersection(set(family_ids.keys()))
@@ -67,6 +69,10 @@ except Exception as e:
     pass
 
 finally:
+    with open("data/scinames.txt", "w") as f:
+        for specimen, sciname in scinames.items():
+            f.write(f"{specimen},{sciname}\n")
+
     with open("data/wikipedia.txt", "w") as f:
         for specimen, url in wikipedia.items():
             f.write(f"{specimen},{url}\n")
@@ -76,6 +82,6 @@ finally:
             f.write(f'"{family}":["{alias}"],\n')
 
     for family, specimens in families.items():
-        with open(f"data/categories/{family.lower()}.txt", "w") as f:
+        with open(f"data/taxon/{family.lower()}.txt", "w") as f:
             for specimen in specimens:
                 f.write(f"{specimen},{','.join(aliases[specimen])}\n")

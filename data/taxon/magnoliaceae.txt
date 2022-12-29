@@ -1,3 +1,6 @@
-tulip tree,liriodendron tulipifera,yellow poplar,tulip poplar,american tulip tree,tuliptree,tulipwood,whitewood,fiddletree
-southern magnolia,magnolia grandiflora,bull bay,evergreen magnolia,great flowered magnolia
 bigleaf magnolia,magnolia macrophylla,large-leaved cucumber tree,big-leaf magnolia,silverleaf magnolia,white cucumbertree
+cucumber-tree,magnolia acuminata,cucumber-tree,cucumbertree,cucumber tree,cucumber magnolia,mountain magnolia,indian-bitter
+fraser magnolia,magnolia fraseri,fraser magnolia,mountain magnolia,earleaf magnolia
+southern magnolia,magnolia grandiflora,bull bay,evergreen magnolia,great flowered magnolia
+sweetbay magnolia,magnolia virginiana,sweet bay magnolia,sweetbay,swamp bay,laurel magnolia,beaver-wood,castor-wood
+tulip tree,liriodendron tulipifera,yellow poplar,tulip poplar,american tulip tree,tuliptree,tulipwood,whitewood,fiddletree

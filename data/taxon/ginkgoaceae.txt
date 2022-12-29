@@ -1,1 +1,1 @@
-ginkgo,ginkgo biloba,maidenhair tree,golden fossil tree,stinkbomb tree,ginko biloba,gingko biloba
+ginkgo,ginkgo biloba,maidenhair tree,golden fossil tree,stinkbomb tree,gingko,ginko biloba,gingko biloba

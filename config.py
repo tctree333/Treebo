@@ -82,6 +82,8 @@ config: Dict[str, Any] = {
         "bignoniaceae": ["bignonia"],
         "viburnaceae": ["elder"],
         "euphorbiaceae": ["spurge"],
+        "theaceae": ["tea", "camellia"],
+        "caprifoliaceae": ["honeysuckle"],
     },
     # "disable_extensions": [],  # bot extensions to disable (media, check, skip, hint, score, sessions, race, other)
     "custom_extensions": ["treebo_ext"],  # custom bot extensions to enable

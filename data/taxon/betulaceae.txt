@@ -1,8 +1,9 @@
+american hophornbeam,ostrya virginiana,american hophornbeam,eastern hophornbeam,ironwood,eastern hop-hornbeam
+american hornbeam,carpinus caroliniana,american hornbeam,blue-beech,ironwood,musclewood,bluebeech
+gray birch,betula populifolia,grey birch,white birch,wire birch,oldfield birch
+paper birch,betula papyrifera,white birch,american white birch,paper white white birch,paper-bark birch,silver birch,canoe birch
 red alder,alnus rubra,red alder,alnus oregona
-yellow birch,betula alleghaniensis,betula lutea,betula alleghaniensis macrolepis
+river birch,betula nigra,black birch
 sweet birch,betula lenta,cherry birch,black birch
 water birch,betula occidentalis,red birch,black birch,spring birch,betula fontinalis
-paper birch,betula papyrifera,white birch,american white birch,paper white white birch,paper-bark birch,silver birch,canoe birch
-gray birch,betula populifolia,grey birch,white birch,wire birch,oldfield birch
-american hornbeam,carpinus caroliniana,american hornbeam,blue-beech,ironwood,musclewood,bluebeech
-american hophornbeam,ostrya virginiana,american hophornbeam,eastern hophornbeam,ironwood,eastern hop-hornbeam
+yellow birch,betula alleghaniensis,betula lutea,betula alleghaniensis macrolepis
