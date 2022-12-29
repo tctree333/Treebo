@@ -1,7 +1,7 @@
 balsam fir,abies balsamea,balm-of-gilead,balsam,abies balsamea fallax,abies balsamea brachylepis
 black spruce,picea mariana,double spruce,swamp spruce,gum spruce,picea mariana beissneri,picea mariana nana,picea mariana semiprostrata,picea mariana mariana
 blue spruce,picea pungens,colorado blue spruce,colorado spruce
-colorado pinyon,pinus edulis,colorado pinyon pine,two-needle pinyon,twin-needle pinyon,piñon pine,pinyon pine,two-needle pinyon pine,twoneedle pinyon,colorado piñon,twoneedle piñon,nut pine,rocky mountain pinyon,pinus cembroides edulis,pinus edulis edulis,pinus edulis fallax
+colorado pinyon,pinus edulis,colorado pinyon,two-needle pinyon,twin-needle pinyon,piñon pine,pinyon pine,two-needle pinyon pine,twoneedle pinyon,colorado piñon,twoneedle piñon,nut pine,rocky mountain pinyon,pinus cembroides edulis,pinus edulis edulis,pinus edulis fallax
 common douglas-fir,pseudotsuga menziesii,common douglas-fir,douglas-fir,douglas fir,oregon pine,north american douglas-fir,psuedotsuga menziesii,pseudotsuga douglasii
 eastern hemlock,tsuga canadensis,canada hemlock,canadian hemlock,eastern hemlock-spruce,hemlock spruce,picea canadensis
 eastern white pine,pinus strobus,white pine,strobus pine,weymouth pine,pumpkin pine,pinus tenuifolia,pinus strobus strobus

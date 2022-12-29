@@ -1,4 +1,5 @@
 american elm,american elm,ulmus americana,ulmus floridana,ulmus alba,ulmus americana alba,ulmus americana aspera,ulmus americana bartramii,ulmus americana pendula,ulmus americana scabra,ulmus dentata,ulmus mollifolia,ulmus obovata
-common hackberry,celtis occidentalis,hackberry,nettle-tree,northern hackberry
+common hackberry,celtis occidentalis,hackberry,nettle-tree,pompion berry,spice-berry,beaverwood,northern hackberry
 slippery elm,ulmus rubra,slippery ellum
+sugar hackberry,celtis laevigata,sugarberry
 winged elm,ulmus alata,winged elm

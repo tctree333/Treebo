@@ -6,7 +6,7 @@ blackjack oak,quercus marilandica,jack oak,barren oak
 blue oak,quercus douglasii
 bur oak,quercus macrocarpa,mossy-cup oak,burr oak,prairie oak,mossy-overcup oak
 california black oak,quercus kelloggii,california black oak
-canyon live oak,quercus chrysolepis,maul oak,golden cup oak,canyon oak
+canyon live oak,quercus chrysolepis,maul oak,golden cup oak,canyonlive oak
 chestnut oak,quercus montana,quercus prinus
 chinkapin oak,quercus muehlenbergii,yellow oak,chinquapin oak,yellow chestnut oak,common chinkapin oak,quercus muhlenbergii,quercus acuminata,quercus prinoides acuminata,quercus prinuss acuminata,quercus rubra muehlenbergii
 coast live oak,quercus agrifolia,encina,california live oak,evergreen oak,coastal live oak
