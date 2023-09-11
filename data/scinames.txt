@@ -20,6 +20,7 @@ balsam poplar,populus balsamifera
 basswood,tilia americana
 bebb's willow,salix bebbiana
 bigleaf magnolia,magnolia macrophylla
+bigleaf maple,acer macrophyllum
 bigtooth aspen,populus grandidentata
 bitter cherry,prunus emarginata
 bitternut hickory,carya cordiformis
@@ -43,9 +44,11 @@ california bay,umbellularia californica
 california black oak,quercus kelloggii
 california buckeye,aesculus californica
 california fan palm,washingtonia filifera
+callery pear,pyrus calleryana
 candlenut,aleurites moluccanus
 canyon live oak,quercus chrysolepis
 chestnut oak,quercus montana
+chinese tallow,triadica sebifera
 chinkapin oak,quercus muehlenbergii
 chokecherry,prunus virginiana
 coast live oak,quercus agrifolia
@@ -75,10 +78,12 @@ ginkgo,ginkgo biloba
 grand fir,abies grandis
 gray birch,betula populifolia
 green ash,fraxinus pennsylvanica
+green ash,fraxinus pennsylvanica
 hercules' club,zanthoxylum clava-herculis
 honey locust,gleditsia triacanthos
 honey mesquite,prosopis glandulosa
 jack pine,pinus banksiana
+joshua tree,yucca brevifolia
 kentucky coffeetree,gymnocladus dioicus
 knobcone pine,pinus attenuata
 lawson's cypress,chamaecyparis lawsoniana
@@ -94,6 +99,7 @@ narrowleaf cottonwood,populus angustifolia
 northern catalpa,catalpa speciosa
 northern red oak,quercus rubra
 northern whitecedar,thuja occidentalis
+norway maple,acer platanoides
 ohio buckeye,aesculus glabra
 oregon ash,fraxinus latifolia
 oregon oak,quercus garryana
@@ -105,17 +111,20 @@ pacific yew,taxus brevifolia
 painted buckeye,aesculus sylvatica
 paper birch,betula papyrifera
 pecan,carya illinoinensis
+persian silk tree,albizia julibrissin
 pignut hickory,carya glabra
 pin oak,quercus palustris
 pitch pine,pinus rigida
 pond pine,pinus serotina
 ponderosa pine,pinus ponderosa
 post oak,quercus stellata
+princess tree,paulownia tomentosa
 red alder,alnus rubra
 red maple,acer rubrum
 red mulberry,morus rubra
 red pine,pinus resinosa
 red spruce,picea rubens
+river birch,betula nigra
 river birch,betula nigra
 rocky mountain bristlecone pine,pinus aristata
 rocky mountain juniper,juniperus scopulorum
@@ -138,6 +147,7 @@ southern catalpa,catalpa bignonioides
 southern live oak,quercus virginiana
 southern magnolia,magnolia grandiflora
 southern red oak,quercus falcata
+staghorn sumac,rhus typhina
 subalpine fir,abies lasiocarpa
 sugar hackberry,celtis laevigata
 sugar maple,acer saccharum
@@ -170,8 +180,10 @@ white ash,fraxinus americana
 white fir,abies concolor
 white mulberry,morus alba
 white oak,quercus alba
+white poplar,populus alba
 white spruce,picea glauca
 whitebark pine,pinus albicaulis
+willow oak,quercus phellos
 willow oak,quercus phellos
 winged elm,ulmus alata
 yaupon holly,ilex vomitoria

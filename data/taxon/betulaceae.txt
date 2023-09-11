@@ -7,3 +7,4 @@ river birch,betula nigra,black birch
 sweet birch,betula lenta,cherry birch,black birch
 water birch,betula occidentalis,red birch,black birch,spring birch,betula fontinalis
 yellow birch,betula alleghaniensis,betula lutea,betula alleghaniensis macrolepis
+river birch,betula nigra,black birch

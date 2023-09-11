@@ -9,3 +9,4 @@ fire cherry,prunus pensylvanica,pin cherry,bird cherry
 saskatoon,amelanchier alnifolia,saskatoon,juneberry,serviceberry,western serviceberry,saskatoon serviceberry
 toyon,heteromeles arbutifolia,toyon,christmas berry,california holly,photinia arbutifolia
 waxy-fruited hawthorn,crataegus pruinosa,frosty hawthorn,frosted hawthorn,crataegus rugosa,crataegus pruinosa rugosa,crataegus leiophylla
+callery pear,pyrus calleryana,callery pear,bradford pear,cum tree

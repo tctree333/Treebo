@@ -8,3 +8,4 @@ fremont cottonwood,populus fremontii,fremont cottonwood,fremont's cottonwood,ala
 narrowleaf cottonwood,narrowleaf cottonwood,populus angustifolia,narrow-leaved cottonwood,mountain cottonwood
 scouler's willow,salix scouleriana,scouler's willow,scouler willow
 trembling aspen,populus tremuloides,quaking aspen,aspen poplar,popple,american aspen,quakies,mountain aspen,trembling poplar
+white poplar,populus alba,european white poplar,silver poplar,abele

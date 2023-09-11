@@ -17,12 +17,11 @@ balsam poplar
 basswood
 bebb's willow
 bigleaf magnolia
+bigleaf maple
 bigtooth aspen
 bitter cherry
 bitternut hickory
 black cherry
-black cottonwood
-black hawthorn
 black locust
 black oak
 black spruce
@@ -32,6 +31,7 @@ blue oak
 blue palo verde
 blue spruce
 box elder
+bradford pear
 bur oak
 butternut
 cabbage palmetto
@@ -42,7 +42,7 @@ california fan palm
 candlenut
 canyon live oak
 chestnut oak
-chinkapin oak
+chinese tallow
 chokecherry
 coast live oak
 coast redwood
@@ -62,19 +62,19 @@ engelmann spruce
 eurabbie
 fire cherry
 flowering dogwood
-fremont cottonwood
 giant sequoia
 ginkgo
 grand fir
 gray birch
+green ash
 hercules' club
 honey locust
 honey mesquite
 jack pine
+joshua tree
 kentucky coffeetree
 knobcone pine
 lawson's cypress
-limber pine
 loblolly pine
 lodgepole pine
 longleaf pine
@@ -84,6 +84,7 @@ narrowleaf cottonwood
 northern catalpa
 northern red oak
 northern whitecedar
+norway maple
 ohio buckeye
 oregon ash
 oregon oak
@@ -97,22 +98,22 @@ pignut hickory
 pin oak
 pitch pine
 ponderosa pine
+princess-tree
 red alder
 red maple
 red mulberry
 red pine
 red spruce
-rocky mountain bristlecone pine
+river birch
 rocky mountain juniper
 saguaro
 saskatoon
 sassafras
 scouler's willow
 shagbark hickory
-shingle oak
 shortleaf pine
+silktree
 silver maple
-singleleaf pinyon
 sitka spruce
 slippery elm
 smooth sumac
@@ -120,10 +121,10 @@ southern catalpa
 southern live oak
 southern magnolia
 southern red oak
+staghorn sumac
 subalpine fir
 sugar maple
 sugar pine
-swamp white oak
 sweet acacia
 sweet birch
 tamarack
@@ -134,19 +135,17 @@ trembling aspen
 tulip tree
 utah juniper
 velvet ash
-virginia pine
 water birch
-waxy-fruited hawthorn
 western hemlock
 western larch
 western redcedar
 western sycamore
-western white pine
 white ash
 white fir
 white mulberry
 white oak
+white poplar
 white spruce
-whitebark pine
+willow oak
 yaupon holly
 yellow birch

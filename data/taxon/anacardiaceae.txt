@@ -1,2 +1,3 @@
 shining sumac,rhus copallinum,winged sumac,flameleaf sumac,eastern winged sumac,rhus copallina,rhus copallinum leucantha,rhus copallinum copallinum,rhus copallinum latifolia
 smooth sumac,rhus glabra,scarlet sumac
+staghorn sumac,rhus typhina,staghorn sumach,red sumac,rhus hirta
