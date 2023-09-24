@@ -94,6 +94,7 @@ pacific madrone
 pacific yew
 paper birch
 pecan
+persian silk tree
 pignut hickory
 pin oak
 pitch pine
@@ -112,7 +113,6 @@ sassafras
 scouler's willow
 shagbark hickory
 shortleaf pine
-silktree
 silver maple
 sitka spruce
 slippery elm
