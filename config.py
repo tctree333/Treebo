@@ -17,7 +17,7 @@ config: Dict[str, Any] = {
     "refresh_images": False,  # whether to run download_func once every 24 hours with None as an argument
     "evict_images": True,  # whether to delete items from download_dir
     "evict_frequency": 3.0,  # how often to run eviction function
-    "evict_threshold": 6,  # the number of times a specimen is seen before eviction
+    "evict_threshold": 2,  # the number of times a specimen is seen before eviction
     "max_evict": 2,  # how many specimens to evict at a time
     "evict_func": get_images,  # function to run during eviction
     "download_dir": "images/",  # local directory containing media (images)
