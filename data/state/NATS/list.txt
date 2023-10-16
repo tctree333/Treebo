@@ -31,7 +31,6 @@ blue oak
 blue palo verde
 blue spruce
 box elder
-bradford pear
 bur oak
 butternut
 cabbage palmetto
@@ -39,6 +38,7 @@ california bay
 california black oak
 california buckeye
 california fan palm
+callery pear
 candlenut
 canyon live oak
 chestnut oak
@@ -99,7 +99,7 @@ pignut hickory
 pin oak
 pitch pine
 ponderosa pine
-princess-tree
+princess tree
 red alder
 red maple
 red mulberry
