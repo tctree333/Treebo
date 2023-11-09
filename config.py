@@ -46,7 +46,6 @@ config: Dict[str, Any] = {
     ],  # list of dicts containing keys "name" and "value" to be added to the botinfo command
     "category_name": "taxon",  # space thing, bird order, muscle group - what you are splitting groups by
     "category_aliases": {  # aliases for categories
-        "aceraceae": ["maple"],
         "anacardiaceae": ["cashew", "sumac"],
         "annonaceae": ["custard", "apples"],
         "aquifoliaceae": ["holly"],
@@ -78,7 +77,7 @@ config: Dict[str, Any] = {
         "rosaceae": ["rose"],
         "rutaceae": ["citrus", "rue"],
         "salicaceae": ["willow"],
-        "sapindaceae":["soapberry"],
+        "sapindaceae":["soapberry", "maple"],
         "simaroubaceae": ["quassia"],
         "taxaceae": ["yew"],
         "theaceae": ["tea", "camellia"],

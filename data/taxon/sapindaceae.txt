@@ -1,2 +1,8 @@
 bigleaf maple,acer macrophyllum,big-leaf maple,oregon maple,canyon maple,big leaf maple
 norway maple,acer platanoides,norway maple
+box elder,acer negundo,manitoba maple,ash-leaved maple,boxelder,ashleaf maple,boxelder maple
+painted buckeye,aesculus sylvatica
+red maple,acer rubrum,soft maple,swamp maple
+silver maple,acer saccharinum,white maple,river maple
+sugar maple,acer saccharum,hard maple
+yellow buckeye,aesculus flava,aesculus octandra
