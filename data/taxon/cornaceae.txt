@@ -1,4 +1,2 @@
-black tupelo,nyssa sylvatica,black tupelo,black gum,pepperidge,sour gum,blackgum tree,nissa sylvatica,nyssa sylvatica sylvatica
 flowering dogwood,cornus florida,flowering cornel,benthamidia florida
 pacific dogwood,cornus nuttallii,pacific dogwood,mountain dogwood,western flowering dogwood
-water tupelo,nyssa aquatica,water tupelo,cottongum,nyssa uniflora
